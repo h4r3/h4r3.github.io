@@ -1,6 +1,6 @@
 # Site settings
 title: "Haru resume page"
-description: "A resume for Haru Pages sites."
+description: "A resume for Haru Pages sites"
 
 # Build settings
 markdown: kramdown
